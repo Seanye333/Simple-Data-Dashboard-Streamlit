@@ -1,0 +1,501 @@
+date,category,product,quantity,revenue
+2024-01-04,Food,Olive Oil,5,66.2
+2024-01-05,Food,Coffee Beans,3,113.58
+2024-01-06,Electronics,Smartwatch,6,6832.62
+2024-01-08,Electronics,Phone,8,2329.2
+2024-01-11,Electronics,Tablet,3,1209.51
+2024-01-12,Electronics,Headphones,4,3131.56
+2024-01-13,Electronics,Phone,10,14767.1
+2024-01-14,Books,The Pragmatic Programmer,1,32.58
+2024-01-15,Clothing,T-Shirt,5,717.55
+2024-01-16,Clothing,Sneakers,10,1694.5
+2024-01-16,Clothing,Hat,8,1110.72
+2024-01-17,Electronics,Phone,6,464.76
+2024-01-17,Food,Olive Oil,3,33.9
+2024-01-18,Clothing,Jacket,6,329.04
+2024-01-19,Food,Protein Bar,4,26.12
+2024-01-20,Food,Olive Oil,4,36.24
+2024-01-20,Electronics,Tablet,2,1747.08
+2024-01-20,Electronics,Smartwatch,6,4080.72
+2024-01-21,Electronics,Headphones,10,10031.9
+2024-01-22,Food,Green Tea,9,207.36
+2024-01-22,Food,Honey,6,119.94
+2024-01-23,Food,Olive Oil,7,207.76
+2024-01-26,Food,Olive Oil,8,131.68
+2024-01-26,Electronics,Tablet,7,4847.57
+2024-01-27,Food,Protein Bar,1,27.76
+2024-01-27,Food,Honey,2,31.88
+2024-01-29,Electronics,Phone,4,1948.24
+2024-01-30,Food,Green Tea,2,15.38
+2024-01-31,Clothing,T-Shirt,10,1230.6
+2024-02-01,Books,Atomic Habits,2,35.18
+2024-02-03,Food,Olive Oil,8,319.92
+2024-02-04,Clothing,Jacket,8,412.48
+2024-02-04,Electronics,Laptop,2,370.36
+2024-02-05,Food,Olive Oil,9,152.1
+2024-02-05,Food,Coffee Beans,8,277.92
+2024-02-06,Books,Python Crash Course,8,219.6
+2024-02-07,Electronics,Tablet,2,1864.06
+2024-02-07,Books,Clean Code,8,367.6
+2024-02-07,Books,Deep Work,10,454.5
+2024-02-08,Clothing,Jacket,10,876.2
+2024-02-08,Books,The Pragmatic Programmer,9,125.28
+2024-02-08,Books,Atomic Habits,3,91.56
+2024-02-09,Food,Honey,7,140.14
+2024-02-10,Food,Olive Oil,4,84.24
+2024-02-10,Electronics,Tablet,3,1088.1
+2024-02-11,Electronics,Smartwatch,4,1735.0
+2024-02-11,Books,The Pragmatic Programmer,2,76.3
+2024-02-11,Clothing,Sneakers,3,161.82
+2024-02-12,Clothing,T-Shirt,9,858.33
+2024-02-12,Books,Clean Code,3,134.01
+2024-02-13,Clothing,Jacket,8,456.56
+2024-02-14,Food,Green Tea,9,268.47
+2024-02-14,Books,Python Crash Course,4,44.76
+2024-02-15,Books,Python Crash Course,10,197.3
+2024-02-16,Food,Green Tea,3,93.48
+2024-02-16,Books,Python Crash Course,9,253.26
+2024-02-16,Clothing,Jeans,6,538.62
+2024-02-17,Books,The Pragmatic Programmer,6,146.82
+2024-02-17,Food,Protein Bar,4,76.6
+2024-02-17,Books,Atomic Habits,6,70.56
+2024-02-20,Food,Honey,6,219.36
+2024-02-21,Electronics,Tablet,10,13207.7
+2024-02-21,Books,Python Crash Course,7,272.3
+2024-02-22,Food,Honey,10,331.9
+2024-02-24,Books,Atomic Habits,8,283.36
+2024-02-25,Clothing,Sneakers,8,369.12
+2024-02-25,Clothing,Sneakers,9,176.85
+2024-02-25,Food,Honey,5,89.3
+2024-02-27,Food,Green Tea,4,53.52
+2024-02-27,Food,Olive Oil,1,10.54
+2024-02-28,Books,Python Crash Course,3,107.73
+2024-02-28,Food,Olive Oil,10,88.8
+2024-02-28,Electronics,Headphones,10,7630.3
+2024-02-29,Food,Protein Bar,5,126.6
+2024-03-01,Food,Green Tea,4,118.56
+2024-03-03,Electronics,Smartwatch,3,3627.0
+2024-03-04,Clothing,T-Shirt,6,247.68
+2024-03-04,Books,Python Crash Course,10,320.8
+2024-03-04,Books,Atomic Habits,5,184.55
+2024-03-05,Food,Honey,9,244.44
+2024-03-05,Food,Coffee Beans,9,351.9
+2024-03-05,Books,The Pragmatic Programmer,2,29.1
+2024-03-05,Food,Coffee Beans,9,186.75
+2024-03-07,Books,The Pragmatic Programmer,1,46.43
+2024-03-07,Food,Protein Bar,1,8.85
+2024-03-07,Food,Protein Bar,9,278.46
+2024-03-08,Electronics,Tablet,4,4781.92
+2024-03-08,Books,Clean Code,10,164.9
+2024-03-09,Food,Coffee Beans,9,101.25
+2024-03-11,Food,Green Tea,1,16.48
+2024-03-11,Food,Coffee Beans,6,164.64
+2024-03-11,Food,Olive Oil,3,69.54
+2024-03-12,Books,Clean Code,4,84.56
+2024-03-13,Clothing,Jeans,9,1744.02
+2024-03-15,Clothing,Hat,3,264.87
+2024-03-16,Books,Python Crash Course,4,191.44
+2024-03-17,Food,Coffee Beans,3,76.2
+2024-03-18,Electronics,Headphones,6,1200.48
+2024-03-19,Books,The Pragmatic Programmer,9,224.46
+2024-03-19,Clothing,Jeans,7,863.24
+2024-03-19,Clothing,Sneakers,2,199.96
+2024-03-20,Clothing,T-Shirt,1,51.36
+2024-03-21,Food,Green Tea,10,302.6
+2024-03-21,Books,Deep Work,4,116.4
+2024-03-22,Books,Atomic Habits,4,84.44
+2024-03-24,Books,The Pragmatic Programmer,5,197.85
+2024-03-25,Books,Python Crash Course,4,105.72
+2024-03-25,Books,Clean Code,9,443.07
+2024-03-25,Food,Honey,7,248.78
+2024-03-26,Electronics,Phone,2,2897.7
+2024-03-26,Books,Atomic Habits,6,167.34
+2024-03-27,Clothing,Hat,9,925.02
+2024-03-28,Food,Honey,1,6.44
+2024-03-28,Clothing,Jacket,7,880.6
+2024-03-29,Books,The Pragmatic Programmer,6,142.14
+2024-03-30,Books,Clean Code,1,47.36
+2024-03-31,Books,Python Crash Course,2,64.6
+2024-04-01,Electronics,Laptop,4,3241.44
+2024-04-02,Food,Green Tea,6,51.54
+2024-04-03,Books,Clean Code,5,120.95
+2024-04-04,Clothing,Jeans,4,285.92
+2024-04-04,Electronics,Tablet,8,11316.32
+2024-04-05,Books,The Pragmatic Programmer,9,229.32
+2024-04-05,Electronics,Smartwatch,4,594.16
+2024-04-06,Electronics,Laptop,7,8566.18
+2024-04-08,Clothing,Jeans,10,625.3
+2024-04-08,Clothing,Sneakers,5,197.2
+2024-04-08,Food,Green Tea,7,100.52
+2024-04-09,Food,Honey,7,105.7
+2024-04-09,Books,Deep Work,3,77.97
+2024-04-11,Books,The Pragmatic Programmer,1,11.61
+2024-04-12,Clothing,Hat,6,1059.18
+2024-04-13,Clothing,Sneakers,9,651.06
+2024-04-13,Food,Honey,3,88.11
+2024-04-14,Food,Honey,1,22.1
+2024-04-16,Food,Olive Oil,6,140.34
+2024-04-16,Clothing,Sneakers,3,217.29
+2024-04-17,Food,Coffee Beans,3,78.96
+2024-04-18,Clothing,T-Shirt,6,514.86
+2024-04-18,Food,Protein Bar,7,195.58
+2024-04-20,Food,Coffee Beans,8,54.16
+2024-04-21,Books,Deep Work,6,288.12
+2024-04-21,Electronics,Laptop,2,1328.72
+2024-04-21,Electronics,Phone,5,3903.25
+2024-04-22,Electronics,Laptop,1,1076.37
+2024-04-23,Books,Atomic Habits,9,189.09
+2024-04-23,Food,Protein Bar,2,15.34
+2024-04-24,Clothing,Jacket,9,1247.13
+2024-04-25,Clothing,Jacket,6,174.24
+2024-04-26,Food,Protein Bar,9,140.22
+2024-04-26,Electronics,Headphones,2,2937.18
+2024-04-27,Books,The Pragmatic Programmer,8,346.64
+2024-04-27,Electronics,Laptop,2,2592.94
+2024-04-27,Clothing,Jeans,5,378.85
+2024-04-27,Electronics,Tablet,2,1263.38
+2024-04-28,Books,Atomic Habits,1,28.38
+2024-04-29,Electronics,Smartwatch,9,3044.79
+2024-04-29,Food,Honey,6,155.58
+2024-04-30,Electronics,Phone,3,1263.45
+2024-05-01,Books,The Pragmatic Programmer,5,121.8
+2024-05-01,Food,Protein Bar,9,355.5
+2024-05-01,Books,Python Crash Course,10,244.4
+2024-05-02,Food,Olive Oil,5,47.9
+2024-05-02,Food,Green Tea,9,164.88
+2024-05-03,Books,Deep Work,4,128.84
+2024-05-05,Electronics,Headphones,9,6178.5
+2024-05-08,Clothing,Jacket,1,181.65
+2024-05-09,Electronics,Headphones,9,702.99
+2024-05-10,Electronics,Headphones,9,472.05
+2024-05-13,Food,Protein Bar,2,14.34
+2024-05-14,Clothing,Hat,5,917.0
+2024-05-15,Electronics,Laptop,3,3379.5
+2024-05-15,Clothing,T-Shirt,4,709.44
+2024-05-16,Books,Clean Code,1,15.64
+2024-05-16,Electronics,Headphones,10,1644.4
+2024-05-16,Electronics,Tablet,10,11027.7
+2024-05-16,Clothing,T-Shirt,8,745.92
+2024-05-17,Food,Protein Bar,2,68.16
+2024-05-19,Electronics,Tablet,7,4785.06
+2024-05-19,Food,Honey,6,74.22
+2024-05-19,Clothing,Jacket,8,582.64
+2024-05-20,Electronics,Smartwatch,1,1304.35
+2024-05-20,Clothing,T-Shirt,2,253.48
+2024-05-22,Food,Protein Bar,5,189.75
+2024-05-22,Books,Clean Code,10,400.2
+2024-05-22,Books,Atomic Habits,6,99.06
+2024-05-25,Electronics,Tablet,9,3011.76
+2024-05-26,Books,The Pragmatic Programmer,8,291.76
+2024-05-26,Food,Coffee Beans,6,211.8
+2024-05-26,Clothing,T-Shirt,9,664.29
+2024-05-27,Books,Python Crash Course,5,143.75
+2024-05-27,Clothing,Jeans,6,421.44
+2024-05-27,Food,Green Tea,2,55.22
+2024-05-28,Books,The Pragmatic Programmer,3,80.19
+2024-05-28,Electronics,Phone,7,9144.8
+2024-05-28,Electronics,Tablet,2,2870.4
+2024-05-29,Books,Python Crash Course,4,138.36
+2024-05-29,Clothing,Jeans,1,29.49
+2024-05-30,Books,The Pragmatic Programmer,2,68.44
+2024-05-31,Food,Coffee Beans,2,42.78
+2024-05-31,Clothing,Sneakers,7,882.56
+2024-06-01,Books,Python Crash Course,3,112.62
+2024-06-01,Books,Atomic Habits,1,32.75
+2024-06-01,Books,The Pragmatic Programmer,7,188.79
+2024-06-03,Electronics,Laptop,10,3957.4
+2024-06-03,Clothing,Jeans,2,344.26
+2024-06-03,Books,Python Crash Course,8,99.44
+2024-06-04,Electronics,Phone,7,1552.25
+2024-06-04,Electronics,Phone,2,2817.76
+2024-06-05,Food,Protein Bar,4,36.88
+2024-06-05,Food,Olive Oil,6,146.22
+2024-06-07,Books,Clean Code,10,247.1
+2024-06-07,Books,Python Crash Course,3,99.54
+2024-06-07,Books,Atomic Habits,9,382.77
+2024-06-07,Clothing,Sneakers,8,599.44
+2024-06-08,Electronics,Smartwatch,4,2566.36
+2024-06-10,Electronics,Smartwatch,3,4286.31
+2024-06-12,Clothing,T-Shirt,1,69.46
+2024-06-14,Electronics,Headphones,1,1304.12
+2024-06-14,Food,Coffee Beans,10,82.0
+2024-06-14,Food,Protein Bar,8,163.12
+2024-06-15,Electronics,Tablet,7,3988.39
+2024-06-15,Clothing,Hat,6,584.52
+2024-06-16,Food,Protein Bar,8,253.68
+2024-06-16,Food,Olive Oil,7,103.18
+2024-06-16,Clothing,Jacket,8,1045.84
+2024-06-17,Food,Honey,1,30.3
+2024-06-18,Electronics,Headphones,1,896.37
+2024-06-18,Electronics,Headphones,2,2556.68
+2024-06-19,Food,Coffee Beans,6,210.12
+2024-06-20,Food,Olive Oil,9,356.58
+2024-06-21,Electronics,Laptop,6,3605.34
+2024-06-22,Electronics,Smartwatch,10,8531.9
+2024-06-22,Food,Coffee Beans,3,34.05
+2024-06-22,Clothing,Jeans,8,1570.88
+2024-06-22,Books,Python Crash Course,9,396.63
+2024-06-23,Food,Honey,5,147.7
+2024-06-25,Food,Olive Oil,8,233.28
+2024-06-25,Books,The Pragmatic Programmer,7,159.25
+2024-06-25,Clothing,Hat,3,394.68
+2024-06-25,Food,Coffee Beans,9,274.86
+2024-06-25,Food,Honey,7,221.9
+2024-06-25,Books,Clean Code,9,363.87
+2024-06-26,Books,Atomic Habits,4,159.56
+2024-06-28,Food,Protein Bar,4,51.2
+2024-06-28,Food,Olive Oil,2,19.02
+2024-06-28,Books,The Pragmatic Programmer,1,23.25
+2024-06-29,Food,Olive Oil,7,244.09
+2024-06-30,Books,Deep Work,1,28.68
+2024-07-01,Electronics,Tablet,2,799.26
+2024-07-04,Books,Deep Work,4,161.6
+2024-07-04,Clothing,Jacket,4,74.84
+2024-07-04,Clothing,Jacket,3,591.54
+2024-07-04,Books,The Pragmatic Programmer,3,33.9
+2024-07-05,Electronics,Tablet,4,1418.44
+2024-07-06,Electronics,Headphones,9,1117.62
+2024-07-06,Electronics,Headphones,9,631.62
+2024-07-07,Books,The Pragmatic Programmer,2,30.38
+2024-07-07,Clothing,Sneakers,8,1535.2
+2024-07-08,Food,Protein Bar,9,183.06
+2024-07-09,Clothing,Hat,9,192.6
+2024-07-10,Electronics,Smartwatch,10,9747.1
+2024-07-10,Clothing,Jacket,2,141.1
+2024-07-10,Food,Honey,3,113.58
+2024-07-13,Electronics,Headphones,8,3476.32
+2024-07-13,Food,Olive Oil,1,35.53
+2024-07-13,Books,Atomic Habits,3,144.54
+2024-07-14,Electronics,Headphones,8,2980.24
+2024-07-14,Books,The Pragmatic Programmer,9,180.54
+2024-07-15,Clothing,Hat,3,319.71
+2024-07-16,Clothing,Jeans,3,579.96
+2024-07-17,Books,Atomic Habits,1,37.16
+2024-07-18,Electronics,Smartwatch,1,601.55
+2024-07-20,Clothing,Sneakers,1,168.62
+2024-07-22,Clothing,Jacket,4,490.0
+2024-07-22,Books,Clean Code,5,237.3
+2024-07-23,Food,Green Tea,5,176.25
+2024-07-23,Books,Python Crash Course,6,135.0
+2024-07-23,Food,Protein Bar,3,119.73
+2024-07-24,Electronics,Headphones,6,7873.56
+2024-07-24,Books,Python Crash Course,8,236.88
+2024-07-25,Electronics,Smartwatch,10,4070.1
+2024-07-28,Clothing,T-Shirt,9,733.77
+2024-07-29,Electronics,Laptop,5,4088.3
+2024-07-29,Clothing,T-Shirt,2,80.5
+2024-07-29,Books,Atomic Habits,7,255.5
+2024-07-30,Electronics,Phone,6,6708.12
+2024-07-31,Books,The Pragmatic Programmer,8,98.48
+2024-08-02,Clothing,Jeans,8,1075.52
+2024-08-02,Clothing,Jeans,7,988.4
+2024-08-02,Clothing,Jeans,1,121.96
+2024-08-05,Food,Green Tea,5,148.0
+2024-08-06,Food,Coffee Beans,2,38.06
+2024-08-06,Books,Clean Code,8,318.0
+2024-08-08,Books,Clean Code,8,212.4
+2024-08-08,Clothing,T-Shirt,7,1037.61
+2024-08-11,Books,Python Crash Course,7,201.6
+2024-08-11,Electronics,Headphones,4,5417.12
+2024-08-12,Clothing,T-Shirt,5,404.2
+2024-08-12,Electronics,Smartwatch,7,754.6
+2024-08-12,Books,Python Crash Course,2,39.84
+2024-08-13,Books,Atomic Habits,9,370.08
+2024-08-13,Books,Atomic Habits,8,391.6
+2024-08-13,Books,Deep Work,6,171.48
+2024-08-14,Electronics,Phone,8,8716.24
+2024-08-14,Food,Green Tea,6,154.2
+2024-08-15,Food,Olive Oil,4,52.76
+2024-08-15,Clothing,T-Shirt,1,181.65
+2024-08-17,Books,Deep Work,9,118.89
+2024-08-18,Clothing,T-Shirt,9,1124.55
+2024-08-18,Food,Protein Bar,5,172.0
+2024-08-18,Food,Coffee Beans,7,136.64
+2024-08-19,Clothing,Hat,9,164.16
+2024-08-20,Electronics,Phone,10,9804.7
+2024-08-21,Food,Protein Bar,4,157.32
+2024-08-21,Clothing,Jeans,9,1231.56
+2024-08-22,Electronics,Laptop,8,10105.6
+2024-08-22,Food,Coffee Beans,10,53.3
+2024-08-25,Electronics,Smartwatch,7,4538.66
+2024-08-25,Books,The Pragmatic Programmer,10,357.2
+2024-08-26,Food,Protein Bar,9,172.71
+2024-08-26,Food,Honey,8,84.24
+2024-08-28,Food,Coffee Beans,5,65.5
+2024-08-28,Books,Atomic Habits,10,172.6
+2024-08-29,Clothing,Jeans,1,95.23
+2024-08-29,Electronics,Phone,9,517.59
+2024-08-29,Electronics,Smartwatch,9,11989.26
+2024-08-29,Clothing,Sneakers,10,1392.6
+2024-08-30,Clothing,Sneakers,3,201.42
+2024-08-30,Food,Coffee Beans,4,125.48
+2024-08-30,Books,Clean Code,7,96.39
+2024-08-31,Books,Atomic Habits,2,61.06
+2024-09-01,Clothing,Jacket,2,385.1
+2024-09-02,Clothing,Hat,7,1006.04
+2024-09-03,Clothing,Jeans,3,544.38
+2024-09-04,Books,Deep Work,10,430.3
+2024-09-04,Books,Clean Code,3,84.81
+2024-09-04,Books,Python Crash Course,9,92.34
+2024-09-05,Electronics,Headphones,7,3761.73
+2024-09-05,Books,Deep Work,9,188.37
+2024-09-06,Food,Coffee Beans,10,127.2
+2024-09-07,Food,Olive Oil,6,201.3
+2024-09-11,Books,Python Crash Course,8,336.88
+2024-09-11,Books,Clean Code,9,136.53
+2024-09-12,Food,Honey,7,207.83
+2024-09-13,Books,Python Crash Course,9,344.07
+2024-09-14,Clothing,Hat,3,566.73
+2024-09-14,Food,Coffee Beans,8,284.8
+2024-09-14,Food,Protein Bar,2,37.04
+2024-09-15,Books,The Pragmatic Programmer,10,211.9
+2024-09-16,Electronics,Tablet,1,719.53
+2024-09-16,Food,Olive Oil,5,82.1
+2024-09-16,Electronics,Headphones,1,1316.33
+2024-09-17,Books,Python Crash Course,2,80.46
+2024-09-18,Books,Clean Code,5,181.75
+2024-09-20,Clothing,T-Shirt,4,548.44
+2024-09-20,Food,Coffee Beans,4,134.56
+2024-09-20,Books,Deep Work,8,361.28
+2024-09-23,Books,Clean Code,2,41.96
+2024-09-24,Food,Green Tea,6,72.9
+2024-09-25,Books,Clean Code,4,171.48
+2024-09-25,Books,Clean Code,8,352.32
+2024-09-25,Food,Coffee Beans,5,170.7
+2024-09-25,Food,Coffee Beans,9,345.33
+2024-09-26,Books,Deep Work,2,85.86
+2024-09-27,Books,Clean Code,10,426.8
+2024-09-28,Clothing,T-Shirt,3,230.13
+2024-09-28,Food,Protein Bar,8,111.92
+2024-09-29,Clothing,Sneakers,9,1218.15
+2024-09-30,Clothing,Sneakers,5,489.15
+2024-10-01,Food,Coffee Beans,7,158.06
+2024-10-01,Clothing,Jacket,10,610.1
+2024-10-02,Clothing,Jeans,7,361.83
+2024-10-02,Clothing,Jeans,9,865.71
+2024-10-03,Electronics,Smartwatch,1,520.03
+2024-10-03,Clothing,Hat,4,477.92
+2024-10-04,Electronics,Laptop,8,11839.2
+2024-10-04,Food,Green Tea,3,104.4
+2024-10-04,Books,Deep Work,7,87.43
+2024-10-07,Books,Python Crash Course,4,164.2
+2024-10-07,Electronics,Tablet,7,3262.14
+2024-10-08,Electronics,Headphones,5,888.45
+2024-10-08,Food,Green Tea,8,253.76
+2024-10-10,Electronics,Smartwatch,5,6420.95
+2024-10-10,Clothing,Sneakers,7,629.16
+2024-10-11,Electronics,Smartwatch,2,2849.38
+2024-10-12,Clothing,Jeans,4,224.56
+2024-10-13,Food,Green Tea,9,83.43
+2024-10-14,Food,Honey,10,200.0
+2024-10-14,Electronics,Tablet,2,801.04
+2024-10-14,Food,Coffee Beans,7,135.66
+2024-10-15,Clothing,Sneakers,9,117.72
+2024-10-15,Clothing,Jeans,6,857.4
+2024-10-15,Electronics,Laptop,9,7466.13
+2024-10-15,Electronics,Laptop,9,11265.48
+2024-10-16,Books,Python Crash Course,1,15.67
+2024-10-16,Clothing,Jacket,9,1509.03
+2024-10-17,Electronics,Laptop,2,2222.54
+2024-10-19,Books,The Pragmatic Programmer,8,284.48
+2024-10-19,Books,Clean Code,7,309.68
+2024-10-19,Books,Clean Code,2,73.14
+2024-10-20,Food,Olive Oil,6,130.5
+2024-10-20,Clothing,Jeans,10,1705.8
+2024-10-20,Clothing,Hat,6,478.32
+2024-10-22,Clothing,Jacket,3,362.61
+2024-10-22,Clothing,Sneakers,4,539.12
+2024-10-23,Books,Clean Code,8,222.88
+2024-10-23,Electronics,Tablet,10,1328.9
+2024-10-23,Food,Olive Oil,4,81.84
+2024-10-23,Electronics,Tablet,7,6194.37
+2024-10-24,Food,Protein Bar,9,58.95
+2024-10-25,Clothing,Jeans,5,171.05
+2024-10-26,Books,Atomic Habits,6,96.6
+2024-10-26,Books,Atomic Habits,4,57.32
+2024-10-27,Electronics,Tablet,3,2656.68
+2024-10-28,Food,Coffee Beans,1,11.1
+2024-10-29,Clothing,Jeans,1,115.61
+2024-10-30,Food,Honey,9,305.91
+2024-10-31,Electronics,Headphones,1,916.79
+2024-10-31,Food,Olive Oil,9,237.96
+2024-11-01,Electronics,Laptop,10,2755.9
+2024-11-01,Electronics,Smartwatch,3,2651.46
+2024-11-01,Electronics,Tablet,3,3884.07
+2024-11-01,Books,Atomic Habits,10,486.8
+2024-11-01,Books,Atomic Habits,2,62.94
+2024-11-04,Electronics,Laptop,10,3228.4
+2024-11-04,Clothing,Jacket,8,349.28
+2024-11-06,Books,Atomic Habits,4,164.12
+2024-11-06,Clothing,T-Shirt,6,1121.76
+2024-11-06,Food,Protein Bar,10,272.8
+2024-11-06,Clothing,Hat,8,658.16
+2024-11-06,Clothing,T-Shirt,6,1042.08
+2024-11-08,Electronics,Phone,5,4785.0
+2024-11-08,Books,Atomic Habits,6,66.9
+2024-11-09,Food,Olive Oil,3,36.03
+2024-11-10,Books,Atomic Habits,1,35.58
+2024-11-10,Books,Deep Work,1,33.21
+2024-11-10,Electronics,Phone,2,697.64
+2024-11-10,Electronics,Smartwatch,5,6985.85
+2024-11-11,Books,Atomic Habits,6,67.86
+2024-11-12,Electronics,Phone,5,4825.9
+2024-11-13,Clothing,Sneakers,3,522.84
+2024-11-13,Clothing,Jeans,3,550.32
+2024-11-15,Food,Coffee Beans,5,150.95
+2024-11-16,Clothing,Jeans,4,127.24
+2024-11-17,Food,Green Tea,7,153.3
+2024-11-18,Electronics,Phone,10,2663.4
+2024-11-19,Food,Coffee Beans,9,148.86
+2024-11-19,Clothing,Sneakers,8,175.92
+2024-11-21,Books,Atomic Habits,1,20.15
+2024-11-23,Electronics,Laptop,4,4501.0
+2024-11-23,Clothing,T-Shirt,1,170.14
+2024-11-23,Clothing,Sneakers,3,243.12
+2024-11-24,Books,Deep Work,6,100.38
+2024-11-24,Electronics,Smartwatch,2,198.08
+2024-11-24,Books,Atomic Habits,7,347.97
+2024-11-25,Books,Clean Code,4,82.4
+2024-11-27,Clothing,T-Shirt,2,334.12
+2024-11-27,Food,Protein Bar,6,32.94
+2024-11-28,Food,Protein Bar,1,38.62
+2024-11-28,Food,Protein Bar,5,49.1
+2024-11-28,Food,Green Tea,9,127.35
+2024-11-29,Clothing,Hat,1,150.35
+2024-11-29,Food,Honey,9,299.61
+2024-12-01,Clothing,Jacket,5,496.0
+2024-12-01,Electronics,Laptop,4,4714.84
+2024-12-02,Books,Deep Work,9,109.53
+2024-12-04,Food,Green Tea,7,144.27
+2024-12-04,Electronics,Phone,9,3580.2
+2024-12-06,Food,Green Tea,8,307.04
+2024-12-07,Electronics,Tablet,7,8268.19
+2024-12-08,Electronics,Laptop,4,2591.88
+2024-12-09,Clothing,Jeans,6,298.14
+2024-12-10,Electronics,Laptop,6,3802.8
+2024-12-10,Food,Coffee Beans,1,18.86
+2024-12-10,Food,Protein Bar,3,99.69
+2024-12-12,Clothing,Hat,7,826.91
+2024-12-12,Food,Honey,4,87.8
+2024-12-13,Books,Atomic Habits,2,49.76
+2024-12-13,Books,Atomic Habits,10,200.8
+2024-12-14,Electronics,Phone,7,10247.09
+2024-12-17,Clothing,T-Shirt,6,551.7
+2024-12-19,Clothing,Hat,6,101.1
+2024-12-19,Books,Deep Work,1,27.93
+2024-12-20,Books,Atomic Habits,9,422.73
+2024-12-22,Clothing,T-Shirt,2,279.94
+2024-12-24,Food,Olive Oil,1,9.08
+2024-12-24,Food,Coffee Beans,7,274.61
+2024-12-24,Books,Atomic Habits,8,240.16
+2024-12-25,Electronics,Smartwatch,4,4380.88
+2024-12-25,Books,Python Crash Course,5,187.5
+2024-12-26,Clothing,Hat,6,696.96
+2024-12-26,Food,Honey,9,354.87
+2024-12-26,Food,Coffee Beans,5,136.75
+2024-12-27,Clothing,Jacket,6,532.92
+2024-12-27,Books,The Pragmatic Programmer,2,20.78
+2024-12-28,Clothing,Jeans,9,391.23
+2024-12-29,Clothing,T-Shirt,9,1710.18
+2024-12-29,Books,Atomic Habits,1,14.61
+2024-12-30,Food,Olive Oil,9,358.29
